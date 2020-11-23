@@ -1,0 +1,11 @@
+asgiref==3.2.10
+certifi==2020.6.20
+Django @ file:///home/conda/feedstock_root/build_artifacts/django_1601535198317/work
+django-ranged-response==0.2.0
+django-simple-captcha==0.5.12
+mysqlclient==2.0.1
+Pillow==7.2.0
+pytz==2020.1
+six==1.15.0
+sqlparse @ file:///home/conda/feedstock_root/build_artifacts/sqlparse_1602142927465/work
+wincertstore==0.2
